@@ -8,7 +8,7 @@ https://gamma.app/docs/Descomplicando-a-IA-Generativa-Uma-Jornada-Inspiradora-fr
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Gamma](https://gamma.app)** para geração e edição do pdf;
--IA Generativa **[ElenLabs](https://elevenlabs.io/app)** para geração de voz por texto;
+- IA Generativa **[ElenLabs](https://elevenlabs.io/app)** para geração de voz por texto;
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
 - Plataforma **[Anieraser](https://anieraser.media.io/app/)** para edição de vídeo;
 - Aplicativo **[Inshot](https://inshot.com/)** para edição de vídeo.
